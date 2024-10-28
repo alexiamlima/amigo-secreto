@@ -13,7 +13,8 @@ const port = 3443
 
 
 //Conexao banco
-const uri = `mongodb+srv://mongodb:mongodb@clusteramigosecreto.vqz6x.mongodb.net/?retryWrites=true&w=majority&appName=ClusterAmigoSecreto`
+const uri = `mongodb+srv://mongodb:teste1
+@clusteramigosecreto.vqz6x.mongodb.net/?retryWrites=true&w=majority&appName=ClusterAmigoSecreto`
 
 
 
